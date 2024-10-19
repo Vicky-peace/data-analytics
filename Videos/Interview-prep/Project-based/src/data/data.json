@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding React Components",
+      "content": "React components are the building blocks of any React application...",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript ES6 Features",
+      "content": "ES6 introduced several new features such as arrow functions, let and const...",
+      "author": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "title": "State and Props in React",
+      "content": "State and props are two core concepts in React that allow for data flow...",
+      "author": "Alice Johnson"
+    },
+    {
+      "id": 4,
+      "title": "Introduction to React Hooks",
+      "content": "Hooks are a new addition to React that allow you to use state and other features...",
+      "author": "Bob Brown"
+    },
+    {
+      "id": 5,
+      "title": "Building a Simple To-Do App in React",
+      "content": "A step-by-step guide to building a basic to-do list application in React...",
+      "author": "Chris Lee"
+    },
+    {
+      "id": 6,
+      "title": "React Router Basics",
+      "content": "React Router is a standard library for routing in React applications...",
+      "author": "Megan White"
+    },
+    {
+      "id": 7,
+      "title": "Managing State with Redux",
+      "content": "Redux is a popular state management library that can be used with React...",
+      "author": "Michael Green"
+    },
+    {
+      "id": 8,
+      "title": "Understanding React Lifecycle Methods",
+      "content": "React components go through different lifecycle phases such as mounting, updating...",
+      "author": "Emily Davis"
+    },
+    {
+      "id": 9,
+      "title": "Handling Events in React",
+      "content": "React simplifies the process of handling events such as clicks, form submissions...",
+      "author": "Daniel King"
+    },
+    {
+      "id": 10,
+      "title": "Styling React Components",
+      "content": "There are several ways to style React components, including CSS, inline styles...",
+      "author": "Sophia Brown"
+    }
+  ]
+  
